@@ -16,7 +16,7 @@ function App() {
      <Router>
       <Header/>
       <Routes>
-        <Route path='/' element={<Home/>} ></Route>
+        <Route path='sohail22515.github.io/Two/' element={<Home/>} ></Route>
         <Route path='/videos' element={<Video/>} ></Route>
         <Route path='/upload' element={<UpLoad/>} ></Route>
         <Route path='/login' element={<Login/>} ></Route>
